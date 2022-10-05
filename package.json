@@ -1,0 +1,21 @@
+{
+  "name": "tarefamod8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0",
+    "sequelize": "^6.24.0",
+    "sequelize-cli": "^6.5.1",
+    "ulid": "^2.3.0"
+  }
+}
